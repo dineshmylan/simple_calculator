@@ -1,0 +1,63 @@
+body{
+  background-image: url(https://images.pexels.com/photos/235985/pexels-photo-235985.jpeg?auto=compress&cs=tinysrgb&w=600);
+  
+}
+.buttondigits{
+  background-color: rgb(26, 26, 24);
+  font-family: 'Times New Roman', Times, serif;
+  font-size: larger;
+  width: 70px;
+  height: 70px;
+  color: aqua;
+}
+.buttonmathdigits{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: larger;
+  background-color: rgb(26, 26, 24);
+  width: 70px;
+  height: 70px;
+  color:aqua;
+}
+#clearButton{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: larger;
+  background-color: rgb(26, 26, 24);
+  width: 70px;
+  height: 70px;
+  color: aqua;
+}
+#display{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: larger;
+  background-color: rgb(26, 26, 24);
+  color: aqua;
+  width: 286px;
+  height: 50px;
+}
+#container{
+  /* padding-top: 25px;
+  padding-left: 25px;
+  padding-bottom: 25px;
+  padding-right: 25px; */
+  padding: 25px;
+  width: 310px;
+  background-color: rgb(37, 47, 23);
+  margin: auto;
+  margin-top: 175px;
+}
+nav{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: larger;
+  padding-top: 20px;
+  background-color: rgb(37, 47, 23);
+  color: aqua;
+  height: 50px;
+  top: 0px;
+  left: 0;
+  right: 0;
+}
+*{
+  margin: 0px;
+  padding: 0px;
+  
+}
